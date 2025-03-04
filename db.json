@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "https://i.ytimg.com/vi/dQw4w9WgXcQ/hqdefault.jpg",
+    "title": "Best React Tutorial for Beginners",
+    "channel": "CodeWithMe",
+    "views": "1.2M",
+    "duration": "10:15"
+  },
+  {
+    "id": 2,
+    "thumbnail": "https://i.ytimg.com/vi/3JZ_D3ELwOQ/hqdefault.jpg",
+    "title": "JavaScript in 1 Hour",
+    "channel": "TechMaster",
+    "views": "900K",
+    "duration": "1:02:30"
+  },
+  {
+    "id": 3,
+    "thumbnail": "https://i.ytimg.com/vi/tgbNymZ7vqY/hqdefault.jpg",
+    "title": "CSS Flexbox Explained",
+    "channel": "Web Dev Simplified",
+    "views": "550K",
+    "duration": "08:45"
+  },
+  {
+    "id": 4,
+    "thumbnail": "https://i.ytimg.com/vi/kJQP7kiw5Fk/hqdefault.jpg",
+    "title": "Building a Full-Stack App with React & Node.js",
+    "channel": "DevOps Hub",
+    "views": "320K",
+    "duration": "45:10"
+  }
+]
