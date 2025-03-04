@@ -19,18 +19,146 @@
     {
       "id": 3,
       "thumbnail": "https://i.ytimg.com/vi/tgbNymZ7vqY/hqdefault.jpg",
-      "title": "CSS Flexbox Explained",
-      "channel": "Web Dev Simplified",
-      "views": "550K",
-      "duration": "08:45"
+      "title": "Mastering CSS Grid",
+      "channel": "FrontendPro",
+      "views": "750K",
+      "duration": "15:45"
     },
     {
       "id": 4,
       "thumbnail": "https://i.ytimg.com/vi/kJQP7kiw5Fk/hqdefault.jpg",
-      "title": "Building a Full-Stack App with React & Node.js",
-      "channel": "DevOps Hub",
-      "views": "320K",
-      "duration": "45:10"
+      "title": "HTML Basics for Beginners",
+      "channel": "CodeSimplified",
+      "views": "2M",
+      "duration": "8:30"
+    },
+    {
+      "id": 5,
+      "thumbnail": "https://i.ytimg.com/vi/ktvTqknDobU/hqdefault.jpg",
+      "title": "Next.js Full Course",
+      "channel": "WebDevGuru",
+      "views": "650K",
+      "duration": "2:15:40"
+    },
+    {
+      "id": 6,
+      "thumbnail": "https://i.ytimg.com/vi/lXMskKTw3Bc/hqdefault.jpg",
+      "title": "Node.js and Express Crash Course",
+      "channel": "BackendMaster",
+      "views": "1.1M",
+      "duration": "45:00"
+    },
+    {
+      "id": 7,
+      "thumbnail": "https://i.ytimg.com/vi/MLpWrANjFbI/hqdefault.jpg",
+      "title": "How to Build a REST API with Python",
+      "channel": "PythonDev",
+      "views": "500K",
+      "duration": "50:25"
+    },
+    {
+      "id": 8,
+      "thumbnail": "https://i.ytimg.com/vi/3fumBcKC6RE/hqdefault.jpg",
+      "title": "Introduction to TypeScript",
+      "channel": "TSForBeginners",
+      "views": "300K",
+      "duration": "22:40"
+    },
+    {
+      "id": 9,
+      "thumbnail": "https://i.ytimg.com/vi/7wtfhZwyrcc/hqdefault.jpg",
+      "title": "React Native for Beginners",
+      "channel": "MobileCoder",
+      "views": "450K",
+      "duration": "1:05:30"
+    },
+    {
+      "id": 10,
+      "thumbnail": "https://i.ytimg.com/vi/LXb3EKWsInQ/hqdefault.jpg",
+      "title": "Vue.js vs React.js: Which is Better?",
+      "channel": "FrontendWars",
+      "views": "850K",
+      "duration": "18:00"
+    },
+    {
+      "id": 11,
+      "thumbnail": "https://i.ytimg.com/vi/xTlJPXgss8k/hqdefault.jpg",
+      "title": "Learn DSA with JavaScript",
+      "channel": "AlgoMaster",
+      "views": "990K",
+      "duration": "1:30:00"
+    },
+    {
+      "id": 12,
+      "thumbnail": "https://i.ytimg.com/vi/9xwazD5SyVg/hqdefault.jpg",
+      "title": "Building a Full-Stack App with MERN",
+      "channel": "MERNExpert",
+      "views": "680K",
+      "duration": "2:10:15"
+    },
+    {
+      "id": 13,
+      "thumbnail": "https://i.ytimg.com/vi/hY7m5jjJ9mM/hqdefault.jpg",
+      "title": "How to Ace Coding Interviews",
+      "channel": "InterviewPrep",
+      "views": "1.5M",
+      "duration": "35:20"
+    },
+    {
+      "id": 14,
+      "thumbnail": "https://i.ytimg.com/vi/e-ORhEE9VVg/hqdefault.jpg",
+      "title": "SASS and SCSS Crash Course",
+      "channel": "CSSMastery",
+      "views": "410K",
+      "duration": "27:15"
+    },
+    {
+      "id": 15,
+      "thumbnail": "https://i.ytimg.com/vi/V2HL5q_X3JY/hqdefault.jpg",
+      "title": "Understanding GraphQL",
+      "channel": "GraphQLForAll",
+      "views": "330K",
+      "duration": "42:00"
+    },
+    {
+      "id": 16,
+      "thumbnail": "https://i.ytimg.com/vi/qz0aGYrrlhU/hqdefault.jpg",
+      "title": "Docker and Kubernetes Essentials",
+      "channel": "DevOpsGuru",
+      "views": "560K",
+      "duration": "1:20:10"
+    },
+    {
+      "id": 17,
+      "thumbnail": "https://i.ytimg.com/vi/04854XqcfCY/hqdefault.jpg",
+      "title": "Artificial Intelligence Basics",
+      "channel": "AIExplained",
+      "views": "720K",
+      "duration": "1:12:30"
+    },
+    {
+      "id": 18,
+      "thumbnail": "https://i.ytimg.com/vi/wZZ7oFKsKzY/hqdefault.jpg",
+      "title": "Tailwind CSS vs Bootstrap",
+      "channel": "DesignSimplified",
+      "views": "480K",
+      "duration": "19:30"
+    },
+    {
+      "id": 19,
+      "thumbnail": "https://i.ytimg.com/vi/k85mRPqvMbE/hqdefault.jpg",
+      "title": "Learn Firebase with React",
+      "channel": "FirebaseDev",
+      "views": "370K",
+      "duration": "55:40"
+    },
+    {
+      "id": 20,
+      "thumbnail": "https://i.ytimg.com/vi/RgKAFK5djSk/hqdefault.jpg",
+      "title": "Understanding WebSockets",
+      "channel": "RealTimeWeb",
+      "views": "280K",
+      "duration": "40:15"
     }
   ]
 }
